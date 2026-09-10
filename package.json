@@ -1,5 +1,4 @@
-“homepage” : “https://github.com/Sowmyachowdary-7/Hello_World_app.gitp/”
-"scripts": {
+ "scripts": {
   "lint": "eslint .",
   "dev": "vite",
   "build": "vite build",
