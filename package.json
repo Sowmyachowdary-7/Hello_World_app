@@ -1,8 +1,11 @@
- "scripts": {
-  "lint": "eslint .",
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+{
+  "homepage": "https://github.com/Sowmyachowdary-7/Hello_World_app.git/",
+  "scripts": {
+    "lint": "eslint .",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
 }
